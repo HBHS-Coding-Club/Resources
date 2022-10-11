@@ -14,3 +14,7 @@ This repository contains links to resources, snippets, example projects, and mor
 - [GitHub Student Developer Pack](https://education.github.com/pack/offers)
   - provides powerful programming tools for free!
   - just signup for a GitHub account with your school email
+
+## Other Resources
+- [random repositories](https://github.com/stars/RoJuan230/lists/random-repos-resources)
+
