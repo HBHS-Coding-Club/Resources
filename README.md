@@ -2,6 +2,10 @@
 
 This repository contains links to resources, snippets, example projects, and more!
 
+## Practice Problems
+
+- [meeting 10/24](https://edabit.com/challenge/WXqH9qvvGkmx4dMvp)
+
 ## Projects
 
 - [python exercises and snippets](https://github.com/stars/RoJuan230/lists/python)
